@@ -1,4 +1,4 @@
-# frontco-test-task
+# front-test-task
 
 ## Project setup
 ```
