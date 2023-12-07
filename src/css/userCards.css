@@ -1,0 +1,29 @@
+.main-card {
+    display: flex;
+    justify-content: center;
+}
+
+.content_card {
+    position: relative;
+    overflow: hidden;
+    max-width: 50%;
+    height: 100%
+}
+
+.cards {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+.card-image {
+    border-radius: 15px;
+    width:80%;
+    height:80%;
+    cursor: pointer;
+}
+.item-card {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+.url-card{
+    line-height: 40px;
+}

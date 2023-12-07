@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px) {
+ .slides-container {
+       transform: scale(1.3);
+   }
+    .item-card {
+        transform: scale(1.1);
+    }
+
+}
